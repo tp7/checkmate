@@ -1,3 +1,3 @@
 ## Checkmate ##
 
-A faster an open source version of checkmate.
+A faster and open source version of checkmate.
